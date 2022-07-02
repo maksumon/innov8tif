@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">innov8tif</string>
+    <string name="search_title">Search</string>
+    <string name="internet_connectivity_error">Internet connection is not available. Please check your connectivity and pull to refresh</string>
+</resources>
